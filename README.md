@@ -1,6 +1,6 @@
-# Module2ChallengeCE
 VBA-Challenge
 Module 2 Challenge
+
 Due Mar 16 by 11:59pm  Points 100  Submitting a text entry box or a website url
 Background
 
